@@ -1,0 +1,48 @@
+body{
+    margin: 0;   
+    padding: 0;
+    background-color: #a5b7c1;
+}
+
+.homepage {
+    font-family: sans-serif;
+    background-size: cover;
+    color: #ffffff;
+    text-align: center;
+    
+}
+
+.homepage h1{
+    font-size: 50px;
+    font-style: normal;
+    margin-bottom: 0;
+}
+
+.homepage h2{
+    font-size: 30px;
+    font-style: normal;
+    margin-bottom: 0;
+}
+
+.homepage h3{
+    font-size: 15px;
+    font-style: normal;
+    margin-bottom: 0;
+}
+
+.button {
+    display: inline-block;
+    border: 2px solid #ffffff;
+    padding: 10px 30px;
+    color: #ffffff;
+    margin: 50px;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+.button:hover {
+    background: #ffffff;
+    color: #514644;
+}
+
+้
